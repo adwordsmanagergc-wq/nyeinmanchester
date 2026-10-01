@@ -1,0 +1,1046 @@
+[
+  {
+    "slug": "warehouse-project-nye-depot-mayfield",
+    "name": "New Year's Eve at The Warehouse Project",
+    "venue": "Depot Mayfield, Baring St",
+    "suburb": "Mayfield",
+    "area": "Piccadilly & Mayfield",
+    "categories": [
+      "club",
+      "party"
+    ],
+    "price_from": null,
+    "price_text": "TBA (2025 tickets from £43.45)",
+    "time": "8:00pm – 4:00am",
+    "includes": [
+      "Defected and Glitterbox stages",
+      "Eats Everything, Groove Armada, Oden & Fatzo, Mix-Stress",
+      "Don't F**k with Disco, Melvo Baptiste, Gina Breeze and more",
+      "Huge warehouse production across multiple rooms",
+      "Priority access sign-up for tickets"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://thewarehouseproject.com/events/nye",
+    "featured": true,
+    "blurb": "Manchester's biggest NYE club night, confirmed for 2026: Defected and Glitterbox take over the vast former railway depot at Mayfield until 4am."
+  },
+  {
+    "slug": "20-stories-nye-midnight-masquerade",
+    "name": "20 Stories NYE 2026: A Midnight Masquerade",
+    "venue": "20 Stories, No. 1 Spinningfields",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "rooftop",
+      "party",
+      "fine-dining"
+    ],
+    "price_from": 79.5,
+    "price_text": "Standing £79.50; five-course dinner £200pp; premium window table £300pp",
+    "time": "8:00pm – 2:00am (dinner sitting 6:00pm)",
+    "includes": [
+      "19th-floor rooftop bar and terrace",
+      "360-degree views of the Manchester skyline",
+      "Live entertainment and dancing",
+      "Optional five-course dinner with bubbles",
+      "Premium window tables with Laurent-Perrier champagne",
+      "Masquerade theme, glamorous dress code"
+    ],
+    "fireworks": "Skyline views at midnight",
+    "age": "18+",
+    "url": "https://www.designmynight.com/manchester/restaurants/spinningfields/20-stories/new-years-eve-2026-a-midnight-masquerade",
+    "featured": true,
+    "blurb": "A masquerade nineteen floors above Spinningfields, with one of the best skyline views in the city and an optional five-course dinner before the party."
+  },
+  {
+    "slug": "alberts-schloss-nye-midnight-in-manhattan",
+    "name": "Albert's Schloss NYE: Midnight in Manhattan",
+    "venue": "Albert's Schloss, 27 Peter St",
+    "suburb": "Peter Street",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "party",
+      "dining"
+    ],
+    "price_from": 55,
+    "price_text": "General admission £55; dining + drinks package £90pp",
+    "time": "From 7:00pm (last entry 10:30pm)",
+    "includes": [
+      "1979 New York theme",
+      "Live bands, DJs and showtime cast",
+      "Three-course set menu from 7pm (dining package)",
+      "Drinks booths available",
+      "Midnight countdown to 2027"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "21+",
+    "url": "https://www.albertsschloss.com/newyearseve/",
+    "featured": true,
+    "blurb": "The Schloss turns into 1979 Manhattan for NYE 2026, with non-stop live entertainment from the moment you walk in until the early hours."
+  },
+  {
+    "slug": "cloud-23-nye-beetham-tower",
+    "name": "NYE at Cloud 23",
+    "venue": "Cloud 23, Beetham Tower, 303 Deansgate",
+    "suburb": "Deansgate",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "rooftop",
+      "party"
+    ],
+    "price_from": 135,
+    "price_text": "£135pp; window table £175pp; VIP £250pp; dinner upgrade +£40pp (latest published packages, TBC)",
+    "time": "Evening until the early hours",
+    "includes": [
+      "Table for the whole night on the 23rd floor",
+      "Welcome drink on arrival",
+      "DJ, saxophonist and dancefloor",
+      "Midnight fizz toast and chef's midnight snacks",
+      "VIP: 90 minutes free-flowing champagne",
+      "Optional three-course dinner at Podium first"
+    ],
+    "fireworks": "Skyline views at midnight",
+    "age": "18+",
+    "url": "https://www.cloud23bar.com/Christmas/",
+    "featured": true,
+    "blurb": "Manchester's classic sky-high bar on the 23rd floor of the Beetham Tower, with a table all night, a DJ and a midnight toast over the city lights."
+  },
+  {
+    "slug": "via-manchester-nye-canal-street",
+    "name": "Via Manchester New Year's Eve",
+    "venue": "Via, 28-30 Canal St",
+    "suburb": "Canal Street",
+    "area": "Gay Village & Oxford Road",
+    "categories": [
+      "gay-village",
+      "party"
+    ],
+    "price_from": null,
+    "price_text": "TBA; pre-booked Veuve Clicquot bottle £60",
+    "time": "Evening until late",
+    "includes": [
+      "Pop, dance and party anthem DJ sets",
+      "Midnight countdown",
+      "Themed decorations and cocktails",
+      "Pre-bookable bottles",
+      "LGBTQ+ venue on Canal Street"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.viamanchester.co.uk/manchester/new-years-eve",
+    "featured": false,
+    "blurb": "One of the Gay Village's best-known bars, billing itself as the biggest LGBTQ+ NYE party in Manchester, right on Canal Street."
+  },
+  {
+    "slug": "old-skool-bingo-nye-blvd",
+    "name": "Old Skool BINGO New Year's Eve",
+    "venue": "BLVD, The Avenue North",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 19.8,
+    "price_text": "£19.80pp; group tickets for 4, 6 and 8",
+    "time": "7:00pm – 10:00pm",
+    "includes": [
+      "Interactive bingo with prizes",
+      "R&B and hip hop classics",
+      "MC host and dance-offs",
+      "Surprise giveaways",
+      "Old Skool Bingo King or Queen crowned"
+    ],
+    "fireworks": "Early-evening party",
+    "age": "18+",
+    "url": "https://www.designmynight.com/manchester/whats-on/themed-nights/old-skool-bingo-new-years-eve-manchester",
+    "featured": false,
+    "blurb": "Bingo, R&B classics and dance-offs in Spinningfields: a cheap, loud warm-up that finishes at 10pm, leaving time to head on for midnight."
+  },
+  {
+    "slug": "be-at-one-deansgate-midnight-mischief",
+    "name": "Midnight Mischief at Be At One Deansgate",
+    "venue": "Be At One, Deansgate",
+    "suburb": "Deansgate",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 11,
+    "price_text": "£11 – £27.50",
+    "time": "8:00pm – 3:00am",
+    "includes": [
+      "DJ all night",
+      "Champagne at midnight",
+      "Bar bites",
+      "Cocktail bar prices"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.designmynight.com/manchester/bars/deansgate/be-at-one",
+    "featured": false,
+    "blurb": "A wallet-friendly cocktail bar party on Deansgate with a DJ, bar bites and a glass of champagne at midnight."
+  },
+  {
+    "slug": "st-peters-square-nye-fireworks",
+    "name": "Manchester NYE Fireworks at St Peter's Square",
+    "venue": "St Peter's Square",
+    "suburb": "City Centre",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "free",
+      "family"
+    ],
+    "price_from": 0,
+    "price_text": "Free, no ticket (2024 and 2025 format; 2026 TBC)",
+    "time": "10:00pm – 12:30am (2025 timings)",
+    "includes": [
+      "Midnight fireworks and laser show from the Central Library roof (about 8 minutes in 2025)",
+      "DJ-led countdown hosted by BBC Radio Manchester",
+      "Alcohol-free, family-friendly event",
+      "Hot drinks and snacks",
+      "Accessible viewing area and toilets"
+    ],
+    "fireworks": "City fireworks at midnight",
+    "age": "All ages",
+    "url": "https://www.manchester.gov.uk/info/500357/christmas_in_manchester/9086/new_years_eve_in_manchester",
+    "featured": false,
+    "blurb": "Manchester City Council's free midnight fireworks drew more than 20,000 people across the city's squares in 2025. Plans for 2026 have not been announced yet."
+  },
+  {
+    "slug": "albert-square-nye-ferris-wheel",
+    "name": "Albert Square NYE: Ferris Wheel & Festive Fair",
+    "venue": "Albert Square",
+    "suburb": "City Centre",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "free",
+      "family"
+    ],
+    "price_from": 0,
+    "price_text": "Free entry; Ferris wheel rides charged (2025 format; 2026 TBC)",
+    "time": "10:00am – 12:30am (2025 timings)",
+    "includes": [
+      "The UK's biggest mobile Ferris wheel",
+      "Fairground rides",
+      "Street food and festive drinks stalls (alcohol on sale)",
+      "Independent craft stalls",
+      "Controlled entry once busy"
+    ],
+    "fireworks": "Near the city fireworks",
+    "age": "All ages",
+    "url": "https://www.manchester.gov.uk/info/500357/christmas_in_manchester/9086/new_years_eve_in_manchester",
+    "featured": false,
+    "blurb": "After the Christmas Markets close, Albert Square stayed open on NYE 2025 with its giant wheel, food and craft stalls until 12:30am."
+  },
+  {
+    "slug": "legoland-discovery-centre-nye-party",
+    "name": "LEGOLAND Discovery Centre New Year's Eve Party",
+    "venue": "LEGOLAND Discovery Centre, Trafford Palazzo",
+    "suburb": "Trafford Park",
+    "area": "Trafford",
+    "categories": [
+      "family"
+    ],
+    "price_from": 25,
+    "price_text": "£25 per ticket (2025 price, TBC)",
+    "time": "10:00am – 1:00pm or 2:00pm – 5:00pm",
+    "includes": [
+      "Mocktails, crowns and blowers on arrival",
+      "DJ, magic show and balloon modelling",
+      "Face painting and character meet-and-greets",
+      "Rides, 4D cinema and MINILAND",
+      "Countdown with a balloon drop"
+    ],
+    "fireworks": "Daytime countdown",
+    "age": "Family",
+    "url": "https://www.legolanddiscoverycentre.com/manchester/whats-inside/events/new-years-eve-party/",
+    "featured": false,
+    "blurb": "A daytime 'midnight' for younger kids, with a DJ, magic and a balloon-drop countdown, all wrapped up by teatime."
+  },
+  {
+    "slug": "raver-tots-nye-freight-island",
+    "name": "Raver Tots New Year's Eve Party",
+    "venue": "Escape to Freight Island, 11 Baring St",
+    "suburb": "Mayfield",
+    "area": "Piccadilly & Mayfield",
+    "categories": [
+      "family",
+      "budget"
+    ],
+    "price_from": 15,
+    "price_text": "From £15 (2025 price, TBC)",
+    "time": "12:30pm – 4:30pm (2025)",
+    "includes": [
+      "Family rave with house, garage and drum & bass",
+      "Lights, lasers, dancers and effects",
+      "Face painting and juice for kids",
+      "Licensed bar for grown-ups",
+      "Buggy park"
+    ],
+    "fireworks": "Daytime countdown",
+    "age": "All ages (adults must come with a child)",
+    "url": "https://www.ravertots.co.uk/",
+    "featured": false,
+    "blurb": "The family rave brand brings proper club production to Freight Island for an afternoon countdown. It usually sells out in advance."
+  },
+  {
+    "slug": "our-kids-social-nye-kargo-mediacity",
+    "name": "NYE with Our Kids Social at Kargo",
+    "venue": "Kargo MKT, Central Bay, MediaCity",
+    "suburb": "Salford Quays",
+    "area": "Salford & MediaCity",
+    "categories": [
+      "family",
+      "budget"
+    ],
+    "price_from": 10,
+    "price_text": "£10pp, pre-walkers free (2025 price, TBC)",
+    "time": "10:00am – 12:00pm (2025)",
+    "includes": [
+      "Silent disco with a kids' pop channel",
+      "Live DJ",
+      "Circus activities and arts & crafts",
+      "Glitter bar and snow effects",
+      "LEGO building crew"
+    ],
+    "fireworks": "Morning countdown",
+    "age": "Family",
+    "url": "https://ourkids.social/events/",
+    "featured": false,
+    "blurb": "A morning party for little ones at MediaCity: silent disco, circus skills and glitter, then home for a nap."
+  },
+  {
+    "slug": "alberts-schloss-noon-years-eve",
+    "name": "Noon Year's Eve at Albert's Schloss",
+    "venue": "Albert's Schloss, 27 Peter St",
+    "suburb": "Peter Street",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "dining",
+      "budget"
+    ],
+    "price_from": 27.5,
+    "price_text": "2 courses £27.50; 3 courses £35",
+    "time": "Afternoon, all before teatime",
+    "includes": [
+      "Two or three-course set menu",
+      "Live entertainment from the Haus party hosts",
+      "DJs and musicians",
+      "Stage-side seating"
+    ],
+    "fireworks": "Daytime countdown",
+    "age": "Check with venue",
+    "url": "https://www.albertsschloss.com/noon-years-eve/",
+    "featured": false,
+    "blurb": "A daytime knees-up for early revellers: a set lunch and a party before teatime, so you can be home (or out again) by evening."
+  },
+  {
+    "slug": "little-disco-nye-freight-island",
+    "name": "The Little Disco NYE at Freight Island",
+    "venue": "Escape to Freight Island, 11 Baring St",
+    "suburb": "Mayfield",
+    "area": "Piccadilly & Mayfield",
+    "categories": [
+      "party",
+      "free",
+      "budget"
+    ],
+    "price_from": 0,
+    "price_text": "Free general admission; VIP tables from £20pp (2025 prices, TBC)",
+    "time": "8:00pm – 2:00am (2025)",
+    "includes": [
+      "Disco headliner (Mousse T in 2025)",
+      "Manchester DJs Mix-Stress and Stu Richards (2025)",
+      "Multiple bars and street food traders",
+      "VIP tables with guaranteed entry and table service"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.escapetofreightisland.com/",
+    "featured": false,
+    "blurb": "A glittering free-entry disco in the giant food hall next to Piccadilly, with street food and a big-name DJ. Book VIP if you want guaranteed entry."
+  },
+  {
+    "slug": "hidden-end-of-year-party",
+    "name": "Hidden's End of Year Party",
+    "venue": "Hidden, Downtex Mill, 16-18 Mary St",
+    "suburb": "Cheetham Hill",
+    "area": "Cheetham Hill",
+    "categories": [
+      "club",
+      "budget"
+    ],
+    "price_from": 5.5,
+    "price_text": "From £5.50 (2025 price, TBC)",
+    "time": "9:00pm – 4:00am (2025)",
+    "includes": [
+      "Four rooms of UK garage, jungle and club music",
+      "2025 line-up: Pearson Sound, Riz La Teef b2b Oneman, Ghoulish and more",
+      "DJ Mag Best Club 2024",
+      "Tiered ticket releases"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://hiddenmcr.com/",
+    "featured": false,
+    "blurb": "The underground favourite in a mill just north of the centre, with four rooms of heavyweight DJs and some of the cheapest early tickets in town."
+  },
+  {
+    "slug": "diecast-nye-bang",
+    "name": "NYE Bang! at Diecast",
+    "venue": "Diecast, 51 Ducie St",
+    "suburb": "Piccadilly",
+    "area": "Piccadilly & Mayfield",
+    "categories": [
+      "party",
+      "club"
+    ],
+    "price_from": 25,
+    "price_text": "From £25 (2025 price, TBC)",
+    "time": "7:00pm – late (2025)",
+    "includes": [
+      "Three spaces: Club Leno, Beer Hall and Old Foundry",
+      "Aerialists, circus stunts and lasers",
+      "Ten-piece live band in the Beer Hall",
+      "Late-night warehouse room"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://diecastmcr.com/",
+    "featured": false,
+    "blurb": "A former metalworks behind Piccadilly turned into a carnival for the night, with a live band, aerialists and a late warehouse room."
+  },
+  {
+    "slug": "refuge-nye-masquerade-ball",
+    "name": "Refuge NYE: Labyrinth Masquerade Ball",
+    "venue": "Refuge, Kimpton Clocktower Hotel, Oxford St",
+    "suburb": "Oxford Street",
+    "area": "Gay Village & Oxford Road",
+    "categories": [
+      "party",
+      "dining"
+    ],
+    "price_from": 25,
+    "price_text": "Dance from £25; Dine & Dance £100pp (2025 prices, TBC)",
+    "time": "Evening until late",
+    "includes": [
+      "Masquerade ball hosted by drag queens Anaphylactic and Liquorice Black",
+      "Dine & Dance: bubbles and canapés in the Winter Garden",
+      "Five-course feast with your table all evening",
+      "Dancefloor entry"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.refugemcr.co.uk/news/nye-2025/",
+    "featured": false,
+    "blurb": "A theatrical masquerade in the grand Kimpton Clocktower, with drag hosts and the option of a five-course feast before the dancing."
+  },
+  {
+    "slug": "bongos-bingo-nye-albert-hall",
+    "name": "Bongo's Bingo NYE: Big Fat Bingo of the Year",
+    "venue": "Albert Hall, 27 Peter St",
+    "suburb": "Peter Street",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 21,
+    "price_text": "From £21 (2025 price, TBC)",
+    "time": "7:00pm – 2:00am (2025)",
+    "includes": [
+      "Bingo with wild prizes",
+      "Rave intervals",
+      "Year-in-review special",
+      "Auld Lang Syne singalong at midnight",
+      "Food and drink packages via Rudy's"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://alberthallmanchester.com/event/bongos-bingo-big-fat-bingo-of-the-year-4/",
+    "featured": false,
+    "blurb": "Manchester's raucous bingo rave takes over the stunning Albert Hall, a former Methodist chapel, for its annual NYE special."
+  },
+  {
+    "slug": "bridgewater-hall-nye-love-is-in-the-air",
+    "name": "New Year's Eve: Love is in the Air",
+    "venue": "The Bridgewater Hall, Lower Mosley St",
+    "suburb": "City Centre",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "live-music"
+    ],
+    "price_from": 40,
+    "price_text": "From £40 (2025 price, TBC)",
+    "time": "8:00pm concert; doors 7:00pm (2025)",
+    "includes": [
+      "The Bridgewater Hall Concert Orchestra with a live band",
+      "Pop, jazz, funk and soul hits through the ages",
+      "Pre-concert DJ and LED dancefloor in the foyer",
+      "Pre-booked dinners and platters"
+    ],
+    "fireworks": "Early-evening concert",
+    "age": "All ages",
+    "url": "https://www.bridgewater-hall.co.uk/whats-on/nye-311225/",
+    "featured": false,
+    "blurb": "An orchestra-to-rave concert at Manchester's concert hall, finishing in time to reach the city centre squares for midnight."
+  },
+  {
+    "slug": "manchester-cathedral-nye-vivaldi-candlelight",
+    "name": "NYE Vivaldi Four Seasons by Candlelight",
+    "venue": "Manchester Cathedral, Victoria St",
+    "suburb": "City Centre",
+    "area": "Cathedral & Victoria",
+    "categories": [
+      "live-music"
+    ],
+    "price_from": null,
+    "price_text": "TBA",
+    "time": "Evening (check listing)",
+    "includes": [
+      "Piccadilly Sinfonietta",
+      "Violinist Katie Stillman",
+      "Vivaldi's Four Seasons and Handel's Music for the Royal Fireworks",
+      "Cathedral lit by hundreds of candles"
+    ],
+    "fireworks": "Early-evening concert",
+    "age": "All ages",
+    "url": "https://www.visitmanchester.com/event/new-years-eve-vivaldi-four-seasons-by-candlelight/103891101/",
+    "featured": false,
+    "blurb": "A calm, candlelit start to the night in the medieval cathedral, with Vivaldi and Handel's Royal Fireworks before you head out."
+  },
+  {
+    "slug": "louis-black-tie-nye-soiree",
+    "name": "Louis Black-Tie New Year's Eve Soirée",
+    "venue": "Louis, 3 Hardman Square",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "fine-dining",
+      "party"
+    ],
+    "price_from": 500,
+    "price_text": "£500pp including dinner and champagne (2025 price, TBC)",
+    "time": "9:00pm – late (à la carte 12pm – 9pm)",
+    "includes": [
+      "1950s New York theme",
+      "Italian-American dinner",
+      "Champagne",
+      "Four-piece band",
+      "Black tie dress code",
+      "Ticket-only, limited availability"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://louisrestaurants.com/news/new-years-eve/",
+    "featured": false,
+    "blurb": "The city's most glamorous ticket: a black-tie, 1950s New York soirée with dinner, champagne and a live band in Spinningfields."
+  },
+  {
+    "slug": "james-martin-manchester-nye-tasting",
+    "name": "New Year's Eve Tasting Experience at James Martin",
+    "venue": "James Martin Manchester, Great Northern Warehouse",
+    "suburb": "Deansgate",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "fine-dining"
+    ],
+    "price_from": 100,
+    "price_text": "£100pp; £140pp with wine pairings (2025 prices, TBC)",
+    "time": "Evening",
+    "includes": [
+      "Five-course tasting menu",
+      "Optional wine pairings",
+      "Fizz on arrival",
+      "Live music, magic and performance"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.metropolitancasinos.com/venues/manchester/food-and-drink/james-martin/",
+    "featured": false,
+    "blurb": "The TV chef's restaurant inside the Great Northern serves a five-course NYE tasting menu with live entertainment."
+  },
+  {
+    "slug": "lowry-hotel-nye-gala-dinner",
+    "name": "New Year's Eve Gala Dinner at The Lowry Hotel",
+    "venue": "The Lowry Hotel, 50 Dearmans Place, Chapel Wharf",
+    "suburb": "Salford",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "fine-dining",
+      "party"
+    ],
+    "price_from": null,
+    "price_text": "Gala dinner + stay packages from £500 for two (2025 price, TBC)",
+    "time": "Evening",
+    "includes": [
+      "Five-course gala dinner",
+      "Overnight stay with breakfast",
+      "Bottle of champagne in the room",
+      "Late check-out and parking",
+      "Exclusive New Year's party in The River Restaurant"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.millenniumhotels.com/en/offers/europe/the-lowry-hotel/christmas-stays/",
+    "featured": false,
+    "blurb": "A five-star riverside gala with a five-course dinner and a party, then just a lift ride to bed. Ideal if you want to skip the taxi queue."
+  },
+  {
+    "slug": "chotto-matte-claudes-skyview-nye",
+    "name": "Chotto Matte & Claude's Skyview Bar NYE",
+    "venue": "Chotto Matte, St Michael's, 36 Jackson's Row",
+    "suburb": "City Centre",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "dining",
+      "rooftop",
+      "party"
+    ],
+    "price_from": 125,
+    "price_text": "Claude's Skyview Bar £125pp; set menu £165pp (2025 prices, TBC)",
+    "time": "Dining 12pm – 11:30pm; bar until 3am (2025)",
+    "includes": [
+      "Nikkei set menu with Pommery champagne",
+      "DJs and immersive entertainment",
+      "Claude's Skyview Bar: champagne on arrival and two premium cocktails",
+      "Panoramic city views at midnight",
+      "Bottle service in the bar and lounge"
+    ],
+    "fireworks": "Skyline views at midnight",
+    "age": "18+",
+    "url": "https://chotto-matte.com/manchester/",
+    "featured": false,
+    "blurb": "Japanese-Peruvian dining at St Michael's with a high-up bar above it. Claude's Skyview Bar sold its 2025 NYE tickets on fireworks views over the city."
+  },
+  {
+    "slug": "australasia-nye-spinningfields",
+    "name": "New Year's Eve at Australasia",
+    "venue": "Australasia, No. 1 The Avenue",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "dining"
+    ],
+    "price_from": 75,
+    "price_text": "Three courses £75 – £110pp (2025 prices, TBC)",
+    "time": "Early sitting 6pm; main sitting 9pm (2025)",
+    "includes": [
+      "Three-course menu (vegetarian, standard or premium)",
+      "Glass of bubbles on arrival",
+      "Live pianist and DJ",
+      "Midnight countdown at sister venue OCASA",
+      "Separate bar tickets"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.australasiamcr.co.uk/nye",
+    "featured": false,
+    "blurb": "Spinningfields' glass-pyramid basement restaurant, with an early sitting or a late one that rolls into the countdown next door."
+  },
+  {
+    "slug": "sexy-fish-midnight-fish-nye",
+    "name": "Midnight Fish at Sexy Fish",
+    "venue": "Sexy Fish, 1 The Avenue",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "fine-dining",
+      "party"
+    ],
+    "price_from": 95,
+    "price_text": "Menus £95 and £130; NYE minimum spend £185pp (2025 prices, TBC)",
+    "time": "All evening into the early hours",
+    "includes": [
+      "Neon, high-energy party atmosphere",
+      "Limited-edition Don Julio 1942 cocktails",
+      "DJs and live performances",
+      "Set menus or à la carte"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://sexyfishmanchester.com/",
+    "featured": false,
+    "blurb": "The glossiest room in Spinningfields stages its signature end-of-year spectacle, with DJs, performers and tequila cocktails."
+  },
+  {
+    "slug": "lucky-cat-manchester-nye",
+    "name": "New Year's Eve at Lucky Cat",
+    "venue": "Lucky Cat, 100 King St",
+    "suburb": "King Street",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "dining"
+    ],
+    "price_from": null,
+    "price_text": "À la carte NYE menu from 6pm (2025), 20% service",
+    "time": "From 6:00pm",
+    "includes": [
+      "Asian-inspired small plates and robata grill",
+      "Cocktails",
+      "DJs and live entertainment",
+      "Perrier-Jouët champagne and sushi at midnight (2025)"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.gordonramsayrestaurants.com/lucky-cat-manchester/menus/new-years-eve/",
+    "featured": false,
+    "blurb": "Gordon Ramsay's pan-Asian spot in a former bank on King Street, with a NYE menu, DJs and champagne at midnight."
+  },
+  {
+    "slug": "bar-shrimp-nye",
+    "name": "New Year's Eve at Bar Shrimp",
+    "venue": "Bar Shrimp, 7 New York St",
+    "suburb": "City Centre",
+    "area": "Northern Quarter & Ancoats",
+    "categories": [
+      "dining",
+      "party",
+      "budget"
+    ],
+    "price_from": 10,
+    "price_text": "Party ticket £10; dinner from £70pp (2025 prices, TBC)",
+    "time": "2:00pm – 3:00am (dinner from 5pm, party from 10pm)",
+    "includes": [
+      "Oysters and seafood",
+      "Champagne and cocktails",
+      "Several dinner sittings with all-night access",
+      "DJ party from 10pm"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.opentable.co.uk/r/bar-shrimp-manchester",
+    "featured": false,
+    "blurb": "Twelve-plus hours of seafood, champagne and dancing just off Piccadilly Gardens, with a £10 party ticket if you only want the late bit."
+  },
+  {
+    "slug": "nells-mediacity-nye-house-party",
+    "name": "NYE House Party at Nell's MediaCity",
+    "venue": "Nell's, 3 Orange Tower, MediaCityUK",
+    "suburb": "Salford Quays",
+    "area": "Salford & MediaCity",
+    "categories": [
+      "party",
+      "dining",
+      "budget"
+    ],
+    "price_from": 5.5,
+    "price_text": "Drinks entry £5.50; non-stop pizza table £43.20 (2025 prices, TBC)",
+    "time": "7:00pm – 1:00am (2025)",
+    "includes": [
+      "90 minutes of non-stop 22-inch pizza (table ticket)",
+      "Welcome drink and midnight fizz",
+      "Free karaoke and shuffleboard",
+      "DJs all night"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.designmynight.com/manchester/restaurants/mediacityuk/nells-media-city/nye-house-party-with-nells-pizza",
+    "featured": false,
+    "blurb": "A cheap and cheerful house party at the Quays: bottomless New York-style pizza, karaoke and fizz at midnight."
+  },
+  {
+    "slug": "side-street-nye-party",
+    "name": "New Year's Eve at Side Street",
+    "venue": "Side Street, ABC Building, Lower Byrom St",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 15,
+    "price_text": "Early bird £15; general admission £25 (2025 prices, TBC)",
+    "time": "8:00pm – 3:00am (2025)",
+    "includes": [
+      "Good Custard DJs across the rooms",
+      "Funk, disco and house classics",
+      "Glass of prosecco with every ticket",
+      "Confetti cannons at midnight"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.designmynight.com/manchester/event-space/spinningfields/side-street/new-years-eve-side-street-manchester",
+    "featured": false,
+    "blurb": "Three connected bar spaces in the old ABC Building, with disco and house all night and a prosecco on arrival."
+  },
+  {
+    "slug": "night-and-day-cafe-nye-party",
+    "name": "Night & Day NYE Party",
+    "venue": "Night & Day Café, 26 Oldham St",
+    "suburb": "Northern Quarter",
+    "area": "Northern Quarter & Ancoats",
+    "categories": [
+      "party",
+      "live-music",
+      "budget"
+    ],
+    "price_from": 10,
+    "price_text": "£10 advance (2025 price, TBC)",
+    "time": "8:00pm – 4:00am (2025)",
+    "includes": [
+      "Two DJ nights in one",
+      "Soul, Motown, indie, post-punk, electro and rock",
+      "Legendary Northern Quarter music venue"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://nightnday.org/show/nd-nye-party-joyful-suffering-vs-drunk-yoga/",
+    "featured": false,
+    "blurb": "Indie classics and pop bangers until 4am at the Oldham Street institution, for the price of a pint and a bit."
+  },
+  {
+    "slug": "blues-kitchen-manchester-nye",
+    "name": "New Year's Eve at The Blues Kitchen",
+    "venue": "The Blues Kitchen, 13 Quay St",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "live-music",
+      "party"
+    ],
+    "price_from": 23,
+    "price_text": "From £23 (2025 price, TBC)",
+    "time": "7:00pm – 3:00am (2025)",
+    "includes": [
+      "Three live sets from the house band",
+      "DJs into the early hours",
+      "Bourbon and cocktail bar",
+      "Southern-style kitchen"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.theblueskitchen.com/manchester/",
+    "featured": false,
+    "blurb": "Live blues, soul and rock'n'roll on Quay Street, with a house band, bourbon and DJs until 3am."
+  },
+  {
+    "slug": "maya-canal-street-nye",
+    "name": "NYE at MAYA",
+    "venue": "MAYA, Canal St",
+    "suburb": "Canal Street",
+    "area": "Gay Village & Oxford Road",
+    "categories": [
+      "gay-village",
+      "dining",
+      "party"
+    ],
+    "price_from": 100,
+    "price_text": "Supper club £100pp (2025 price, TBC)",
+    "time": "Evening until late",
+    "includes": [
+      "Four-course supper",
+      "90 minutes limitless beer and bubbles",
+      "Three floors: restaurant, Bar MAYA and The Pump Room",
+      "DJs and a late-night club"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.designmynight.com/manchester/restaurants/canal-street/maya-manchester",
+    "featured": false,
+    "blurb": "Supper, bottomless bubbles and a three-floor party on Canal Street, ending in the late-night Pump Room."
+  },
+  {
+    "slug": "dandy-new-queers-eve",
+    "name": "Dandy: New Queers Eve",
+    "venue": "The Deaf Institute, Grosvenor St",
+    "suburb": "Oxford Road",
+    "area": "Gay Village & Oxford Road",
+    "categories": [
+      "gay-village",
+      "club",
+      "budget"
+    ],
+    "price_from": 15,
+    "price_text": "£15; limited £5 concessions (2025 prices, TBC)",
+    "time": "From 10:00pm (2025)",
+    "includes": [
+      "Alternative LGBTQ+ club night across three floors",
+      "Resident DJs and special guests",
+      "Performers and live music",
+      "Safe-space ethos"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.visitmanchester.com/event/dandy-:-new-queers-eve/107826101/",
+    "featured": false,
+    "blurb": "Manchester's alternative queer club night fills all three floors of the Deaf Institute for its NYE special."
+  },
+  {
+    "slug": "midnight-at-manahatta-deansgate",
+    "name": "Midnight at Manahatta",
+    "venue": "Manahatta, 188-192 Deansgate",
+    "suburb": "Deansgate",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 15,
+    "price_text": "£15 – £25 + booking fee (2025 prices, TBC)",
+    "time": "9:00pm – 4:00am (last entry 10:30pm)",
+    "includes": [
+      "DJs all night",
+      "Cocktails and champagne",
+      "Dress-to-impress Deansgate bar",
+      "Tiered ticket releases"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.fatsoma.com/e/eiyw5c9w/midnight-at-manahatta-new-year-s-eve",
+    "featured": false,
+    "blurb": "A New York-style cocktail bar party on Deansgate that runs until 4am. All three ticket tiers sold out in 2025."
+  },
+  {
+    "slug": "firehouse-velvet-hour-nye",
+    "name": "The Velvet Hour at The Firehouse",
+    "venue": "The Firehouse, 40 Swan St",
+    "suburb": "Ancoats",
+    "area": "Northern Quarter & Ancoats",
+    "categories": [
+      "party",
+      "dining"
+    ],
+    "price_from": 25,
+    "price_text": "Standing from £25; table with prosecco and feast £70 (2025 prices, TBC)",
+    "time": "Evening until late",
+    "includes": [
+      "Cabaret and immersive performances",
+      "DJs",
+      "Welcome prosecco and NYE feast (table ticket)",
+      "Joint takeover with Ramona"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.firehousemcr.com/event/nye/",
+    "featured": false,
+    "blurb": "Cabaret, drama and a sharing feast in a converted fire station on the edge of Ancoats."
+  },
+  {
+    "slug": "gorilla-so-fetch-2000s-nye",
+    "name": "So Fetch: 2000s New Year's Eve Party at Gorilla",
+    "venue": "Gorilla, 54-56 Whitworth St",
+    "suburb": "Oxford Road",
+    "area": "Gay Village & Oxford Road",
+    "categories": [
+      "club",
+      "party"
+    ],
+    "price_from": null,
+    "price_text": "TBA",
+    "time": "Evening until late",
+    "includes": [
+      "2000s bangers in one room",
+      "2010s pop in the other",
+      "Railway-arch club venue by Oxford Road station"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.thisisgorilla.com/",
+    "featured": false,
+    "blurb": "Two rooms of throwback pop under the railway arches by Oxford Road station."
+  },
+  {
+    "slug": "band-on-the-wall-nye",
+    "name": "Me Gusta Collective NYE at Band on the Wall",
+    "venue": "Band on the Wall, 25 Swan St",
+    "suburb": "Northern Quarter",
+    "area": "Northern Quarter & Ancoats",
+    "categories": [
+      "live-music",
+      "club"
+    ],
+    "price_from": null,
+    "price_text": "TBA",
+    "time": "Evening into the early hours",
+    "includes": [
+      "Salsa, Latin, kuduro, house, breaks and amapiano",
+      "Live band set",
+      "Me Gusta Collective DJs and special guests"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://bandonthewall.org/",
+    "featured": false,
+    "blurb": "Global grooves and a live band at the Northern Quarter's much-loved music venue."
+  },
+  {
+    "slug": "cut-and-craft-nye",
+    "name": "NYE at The Cut & Craft",
+    "venue": "The Cut & Craft, 38-42 Mosley St",
+    "suburb": "City Centre",
+    "area": "St Peter's Square & Civic Quarter",
+    "categories": [
+      "dining",
+      "party"
+    ],
+    "price_from": null,
+    "price_text": "Tiered packages, TBA",
+    "time": "Evening until late",
+    "includes": [
+      "Welcome champagne",
+      "Three-course feast",
+      "Dancing showgirls",
+      "Live vocals and a DJ (Julie McKnight and Raven Mandella in 2025)",
+      "Midnight countdown"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.thecutandcraft.co.uk/",
+    "featured": false,
+    "blurb": "Steak, showgirls and a disco diva on Mosley Street, a few minutes' walk from St Peter's Square."
+  },
+  {
+    "slug": "bar-lina-nye",
+    "name": "New Year's Eve at Bar Lina",
+    "venue": "Bar Lina, Quay St",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 25,
+    "price_text": "£25pp (2025 price, TBC)",
+    "time": "9:00pm – 2:00am (2025)",
+    "includes": [
+      "Prosecco on arrival",
+      "Signature cocktail",
+      "Midnight fizz",
+      "Funk, disco, soul, R&B and hip hop"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.sevenrooms.com/experiences/barlinamanchester/new-years-eve-at-bar-lina-manchester-5971195579285504",
+    "featured": false,
+    "blurb": "A drinks-included party on Quay Street with three drinks in the ticket price and a Manchester club night on the decks."
+  },
+  {
+    "slug": "crazy-pedros-bridge-street-nye",
+    "name": "NYE at Crazy Pedro's Bridge Street",
+    "venue": "Crazy Pedro's, 55-57 Bridge St",
+    "suburb": "Spinningfields",
+    "area": "Spinningfields & Deansgate",
+    "categories": [
+      "party",
+      "free"
+    ],
+    "price_from": 0,
+    "price_text": "Free entry (2025)",
+    "time": "Until 4:00am",
+    "includes": [
+      "Two-floor party",
+      "Free pizza at midnight (2025)",
+      "Party anthems and disco",
+      "Pizza and drinks all night"
+    ],
+    "fireworks": "Midnight countdown",
+    "age": "18+",
+    "url": "https://www.crazypedros.co.uk/",
+    "featured": false,
+    "blurb": "The pizza party bar keeps it simple: free entry, two floors of anthems and free pizza at midnight."
+  }
+]
